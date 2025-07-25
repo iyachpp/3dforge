@@ -1,0 +1,3 @@
+Site Name: 3DFortCom
+Language: Arabic
+Payment: RedotPay, Edahabia
